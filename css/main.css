@@ -1,0 +1,17 @@
+html {
+  font-family: Georgia, serif;
+  background-color: rgba(73, 85, 98, .9);
+  color: #fff;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+  border-color: #97a49b;
+}
+
+.btn:hover {
+  color: #495562;
+  background-color: #fff;
+  border-color: #fff;;
+}
